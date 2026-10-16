@@ -1,0 +1,4 @@
+interface:
+  display_name: "餐饮海报风格 · DalingLab"
+  short_description: "为餐厅、茶饮、咖啡与食品制作保留参考风格和真实商品特征的海报"
+  default_prompt: "用 $poster-style-food，参考我上传海报的设计语言，为这款真实餐饮商品制作新品海报；配料和价格只使用我确认的信息。"

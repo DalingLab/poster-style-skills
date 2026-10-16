@@ -1,0 +1,4 @@
+interface:
+  display_name: "美妆海报风格 · DalingLab"
+  short_description: "为护肤、彩妆与香氛迁移海报风格，同时校准包装、色号和质地"
+  default_prompt: "用 $poster-style-beauty，依据参考海报为我的美妆商品创作视觉；保留提供的包装和色号，先区分已确认卖点与创意表达。"

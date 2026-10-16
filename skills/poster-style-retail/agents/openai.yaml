@@ -1,0 +1,4 @@
+interface:
+  display_name: "零售海报风格 · DalingLab"
+  short_description: "制作门店与电商活动海报，保留参考风格并理清价格、优惠和行动入口"
+  default_prompt: "用 $poster-style-retail，依据参考海报为我的零售活动制作视觉；准确展示已确认价格、优惠条件和购买入口。"

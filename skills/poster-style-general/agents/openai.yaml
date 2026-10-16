@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用海报风格 · DalingLab"
+  short_description: "把参考海报转成可执行的设计参数，用新主题重建版式与视觉语言"
+  default_prompt: "用 $poster-style-general 分析我提供的参考海报，把它的版式与视觉语言迁移到我的新主题，先列明素材用途和关键约束。"
