@@ -1,0 +1,4 @@
+interface:
+  display_name: "茶饮海报风格 · DalingLab"
+  short_description: "按参考字号与空间拟写品名和 slogan，结合真实饮品图制作海报和系列视觉"
+  default_prompt: "Use $poster-style-tea to create a poster from my drink photo and style reference; draft the product name, slogan, and microcopy to match the reference typography scale and available space."
